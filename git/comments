@@ -1,0 +1,7 @@
+#Для клонирования репозитория с github на компьютер
+- git clone {URL}
+пример: git clone https://github.com/Vovafet123/Theory.git
+
+git push
+git stash
+git remote
