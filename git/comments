@@ -1,8 +1,12 @@
 #Для клонирования репозитория с github на компьютер
-- git clone {URL}
+# git clone {URL}
 пример: git clone https://github.com/Vovafet123/Theory.git
 
-git push
-git stash
-git remote
-Проверка
+git init                    # создать пустой репозиторий
+git add .                   # добавить все файлы в отслеживаемые
+git add comments.txt        # добавить конкретный файл в отслеживаемые
+git status                  # проверить статус отслеживаемых файлов
+git commit -m               # сделать коммит с комментарием
+git push                    #
+git stash                   #
+git remote                  #
