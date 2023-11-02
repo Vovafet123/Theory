@@ -9,4 +9,4 @@ git status                  # проверить статус отслежива
 git commit -m               # сделать коммит с комментарием
 git push                    #
 git stash                   #
-git remote                  #
+git remote                  #tttttttttttt
